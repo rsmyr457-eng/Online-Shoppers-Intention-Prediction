@@ -83,6 +83,8 @@ Clone the repository:
 git clone https://github.com/rsmyr457-eng/Online-Shoppers-Intention-Prediction.git
 ```
 ## 📁 Project Structure
+
+```text
 Online-Shoppers-Intention-Prediction/
 │
 ├── app.py
@@ -91,6 +93,7 @@ Online-Shoppers-Intention-Prediction/
 ├── model/
 ├── data/
 └── notebooks/
+```
 
 ## 💡 Project Outcome
 
